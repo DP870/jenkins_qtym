@@ -3,4 +3,4 @@
 - Spring boot (JAVA) -> API server
 - Lombok -> Annotations
 - JPA/Hibernate -> DB ORM
-- Jenkins - Automation
+- Jenkins - Automating the api deployment on EC2
