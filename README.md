@@ -5,3 +5,4 @@
 - JPA/Hibernate -> DB ORM
 - Jenkins - Automating the api deployment on EC2
 - AWS EC2,ECR
+ 
