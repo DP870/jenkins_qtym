@@ -4,3 +4,4 @@
 - Lombok -> Annotations
 - JPA/Hibernate -> DB ORM
 - Jenkins - Automating the api deployment on EC2
+- AWS Instances
